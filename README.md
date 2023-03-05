@@ -11,4 +11,5 @@ Alguns conceitos utilizados nessa aplicação:
 - DOM
 - parseFloat()
 - toFixed()
+
 https://user-images.githubusercontent.com/101683017/222975061-668a3ac3-0ce3-4d69-bc65-6f95e7e8d4a0.mp4
